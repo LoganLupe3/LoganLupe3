@@ -4,7 +4,7 @@ My name is Logan Lupeamanu. I am currently in my 2nd year of university studying
 
 
 ### A little about me:
-- 🔭 I’m currently working on a path finding algorithm visualizer
+- 🔭 I’m currently working on a recipe app!
 - 🌱 I’m currently learning front end development!
 - 📫 Contact me with any questions via: LupeamanuLogan@gmail.com
 - 😄 Pronouns: He/Him
