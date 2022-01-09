@@ -1,10 +1,3 @@
 <h2>Hi there 👋</h2>
 
-My name is Logan Lupeamanu. I am currently in my 2nd year of university studying Computer Science! I am interested in learning many things and expanding my skills as a software devloper. I hope to create projects here to help showcase what I'm learning. Enjoy!
-
-
-### A little about me:
-- 🔭 I’m currently working on a recipe app!
-- 🌱 I’m currently learning front end development!
-- 📫 Contact me with any questions via: LupeamanuLogan@gmail.com
-- 😄 Pronouns: He/Him
+My name is Logan Lupeamanu. I am currently in my 2nd year of university studying Cyber Security! I am currently pursuing and studying to obtain my CompTIA Sec+ Certification. I am interested in learning more about information security and incident response!
